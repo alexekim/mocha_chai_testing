@@ -1,0 +1,19 @@
+{
+  "name": "testing_mocha",
+  "version": "1.0.0",
+  "description": "testing mocha and chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexekim/mocha_chai_testing.git"
+  },
+  "author": "Alex Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexekim/mocha_chai_testing/issues"
+  },
+  "homepage": "https://github.com/alexekim/mocha_chai_testing#readme"
+}
